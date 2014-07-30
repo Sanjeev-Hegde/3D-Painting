@@ -1,0 +1,51 @@
+﻿Build started 20-May-14 1:39:54 AM.
+     1>Project "C:\Users\RS\Documents\Visual Studio 2010\Projects\batta\3dPainting\3dPainting\3dPainting.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\3dPainting.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 3dpaint.cpp
+         3dpaint.cpp
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\glui.h(205): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\glui.h(796): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\glui.h(810): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\glui.h(811): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\glui.h(852): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\glui.h(894): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\glui.h(955): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\glui.h(999): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\glui.h(1286): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\glui.h(1386): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\glui.h(1481): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\glui.h(1531): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\program files (x86)\microsoft visual studio 10.0\vc\include\glui.h(1646): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : see declaration of 'sprintf'
+     1>c:\users\rs\documents\visual studio 2010\projects\batta\3dpainting\3dpainting\3dpaint.cpp(512): warning C4101: 'dy' : unreferenced local variable
+     1>c:\users\rs\documents\visual studio 2010\projects\batta\3dpainting\3dpainting\3dpaint.cpp(512): warning C4101: 'dx' : unreferenced local variable
+     1>c:\users\rs\documents\visual studio 2010\projects\batta\3dpainting\3dpainting\3dpaint.cpp(574): warning C4101: 'trans' : unreferenced local variable
+     1>c:\users\rs\documents\visual studio 2010\projects\batta\3dpainting\3dpainting\3dpaint.cpp(571): warning C4101: 'bigpanel' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\RS\Documents\Visual Studio 2010\Projects\batta\3dPainting\Debug\3dPainting.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:LIBCD.lib /MANIFEST /ManifestFile:"Debug\3dPainting.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\RS\Documents\Visual Studio 2010\Projects\batta\3dPainting\Debug\3dPainting.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\RS\Documents\Visual Studio 2010\Projects\batta\3dPainting\Debug\3dPainting.lib" /MACHINE:X86 Debug\3dpaint.obj
+     1>3dpaint.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         3dPainting.vcxproj -> C:\Users\RS\Documents\Visual Studio 2010\Projects\batta\3dPainting\Debug\3dPainting.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\RS\Documents\Visual Studio 2010\Projects\batta\3dPainting\Debug\3dPainting.exe;#1" /manifest Debug\3dPainting.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\3dPainting.unsuccessfulbuild".
+         Touching "Debug\3dPainting.lastbuildstate".
+     1>Done Building Project "C:\Users\RS\Documents\Visual Studio 2010\Projects\batta\3dPainting\3dPainting\3dPainting.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.49
